@@ -5,11 +5,13 @@
         "fuels" : 
         [
             {
+                "key": "eko_superi",
                 "name" : "ეკო სუპერი",
                 "price": 3.07,
                 "change": 0.02
             },
             {
+                "key": "eko_premiumi",
                 "name" : "ეკო პრემიუმი",
                 "price": 2.99,
                 "change": -0.05
@@ -22,11 +24,13 @@
         "fuels" : 
         [
             {
+                "key": "superi",
                 "name" : "სუპერი",
                 "price": 3.1,
                 "change": -0.03
             },
             {
+                "key": "premiumi",
                 "name" : "პრემიუმი",
                 "price": 3.01,
                 "change": 0.75
