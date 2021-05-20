@@ -1,0 +1,38 @@
+[
+  {
+    "key": "rompetrol",
+    "name": "რომპეტროლი",
+    "fuels": [
+      {
+        "key": "efix_superi",
+        "name": "Efix სუპერი",
+        "price": 3.05,
+        "change": 0
+      },
+      {
+        "key": "efix_evro_premiumi",
+        "name": "Efix ევრო პრემიუმი",
+        "price": 2.99,
+        "change": 0
+      },
+      {
+        "key": "evro_regulari",
+        "name": "ევრო რეგულარი",
+        "price": 2.85,
+        "change": 0
+      },
+      {
+        "key": "efix_evro_dizeli",
+        "name": "Efix ევრო დიზელი",
+        "price": 2.94,
+        "change": 0
+      },
+      {
+        "key": "evro_dizeli",
+        "name": "ევრო დიზელი",
+        "price": 2.84,
+        "change": 0
+      }
+    ]
+  }
+]
