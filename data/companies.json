@@ -1,40 +1,38 @@
 [
-    {
-        "key" : "wissol",
-        "name" : "ვისოლი",
-        "fuels" : 
-        [
-            {
-                "key": "eko_superi",
-                "name" : "ეკო სუპერი",
-                "price": 3.07,
-                "change": 0.02
-            },
-            {
-                "key": "eko_premiumi",
-                "name" : "ეკო პრემიუმი",
-                "price": 2.99,
-                "change": -0.05
-            }
-        ]
-    },
-    {
-        "key" : "lukoil",
-        "name" : "ლუკოილი",
-        "fuels" : 
-        [
-            {
-                "key": "superi",
-                "name" : "სუპერი",
-                "price": 3.1,
-                "change": -0.03
-            },
-            {
-                "key": "premiumi",
-                "name" : "პრემიუმი",
-                "price": 3.01,
-                "change": 0.75
-            }
-        ]
-    }
+  {
+    "key": "lukoil",
+    "name": "\u10DA\u10E3\u10D9\u10DD\u10D8\u10DA\u10D8",
+    "fuels": [
+      {
+        "key": "premiumi",
+        "name": "\u10DE\u10E0\u10D4\u10DB\u10D8\u10E3\u10DB\u10D8",
+        "price": 3.01,
+        "change": 0.03
+      },
+      {
+        "key": "superi",
+        "name": "\u10E1\u10E3\u10DE\u10D4\u10E0\u10D8",
+        "price": 2.9,
+        "change": -0.2
+      }
+    ]
+  },
+  {
+    "key": "wissol",
+    "name": "\u10D5\u10D8\u10E1\u10DD\u10DA\u10D8",
+    "fuels": [
+      {
+        "key": "eko_premiumi",
+        "name": "\u10D4\u10D9\u10DD \u10DE\u10E0\u10D4\u10DB\u10D8\u10E3\u10DB\u10D8",
+        "price": 3.11,
+        "change": 0.12
+      },
+      {
+        "key": "eko_superi",
+        "name": "\u10D4\u10D9\u10DD \u10E1\u10E3\u10DE\u10D4\u10E0\u10D8",
+        "price": 3.01,
+        "change": -0.06
+      }
+    ]
+  }
 ]
