@@ -1,17 +1,17 @@
 [
   {
     "key": "lukoil",
-    "name": "\u10DA\u10E3\u10D9\u10DD\u10D8\u10DA\u10D8",
+    "name": "ლუკოილი",
     "fuels": [
       {
         "key": "premiumi",
-        "name": "\u10DE\u10E0\u10D4\u10DB\u10D8\u10E3\u10DB\u10D8",
+        "name": "პრემიუმი",
         "price": 3.02,
         "change": 0.01
       },
       {
         "key": "superi",
-        "name": "\u10E1\u10E3\u10DE\u10D4\u10E0\u10D8",
+        "name": "სუპერი",
         "price": 2.9,
         "change": 0
       }
@@ -19,17 +19,17 @@
   },
   {
     "key": "wissol",
-    "name": "\u10D5\u10D8\u10E1\u10DD\u10DA\u10D8",
+    "name": "ვისოლი",
     "fuels": [
       {
         "key": "eko_premiumi",
-        "name": "\u10D4\u10D9\u10DD \u10DE\u10E0\u10D4\u10DB\u10D8\u10E3\u10DB\u10D8",
+        "name": "ეკო პრემიუმი",
         "price": 3.1,
         "change": -0.01
       },
       {
         "key": "eko_superi",
-        "name": "\u10D4\u10D9\u10DD \u10E1\u10E3\u10DE\u10D4\u10E0\u10D8",
+        "name": "ეკო სუპერი",
         "price": 3.02,
         "change": 0.01
       }
@@ -37,17 +37,17 @@
   },
   {
     "key": "rompetrol",
-    "name": "\u10E0\u10DD\u10DB\u10DE\u10D4\u10E2\u10E0\u10DD\u10DA\u10D8",
+    "name": "რომპეტროლი",
     "fuels": [
       {
         "key": "efix_superi",
-        "name": "Efix \u10E1\u10E3\u10DE\u10D4\u10E0\u10D8",
+        "name": "Efix სუპერი",
         "price": 3.05,
         "change": 0
       },
       {
         "key": "efix_evro_premiumi",
-        "name": "Efix \u10D4\u10D5\u10E0\u10DD \u10DE\u10E0\u10D4\u10DB\u10D8\u10E3\u10DB\u10D8",
+        "name": "Efix ევრო პრემიუმი",
         "price": 2.99,
         "change": 0
       }
