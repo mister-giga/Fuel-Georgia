@@ -48,6 +48,48 @@
     ]
   },
   {
+    "key": "lukoil",
+    "name": "ლუკოილი",
+    "fuels": [
+      {
+        "key": "superi_ecto_100",
+        "name": "სუპერი ecto 100",
+        "price": 3.15,
+        "change": 0
+      },
+      {
+        "key": "evro_superi",
+        "name": "ევრო სუპერი",
+        "price": 3.05,
+        "change": 0
+      },
+      {
+        "key": "premium_avangardi",
+        "name": "პრემიუმ ავანგარდი",
+        "price": 2.98,
+        "change": 0
+      },
+      {
+        "key": "evro_regulari",
+        "name": "ევრო რეგულარი",
+        "price": 2.85,
+        "change": 0
+      },
+      {
+        "key": "evro_dizeli",
+        "name": "ევრო დიზელი",
+        "price": 2.92,
+        "change": 0
+      },
+      {
+        "key": "dizeli",
+        "name": "დიზელი",
+        "price": 2.87,
+        "change": 0
+      }
+    ]
+  },
+  {
     "key": "rompetrol",
     "name": "რომპეტროლი",
     "fuels": [
