@@ -24,14 +24,14 @@
       {
         "key": "eko_premiumi",
         "name": "\u10D4\u10D9\u10DD \u10DE\u10E0\u10D4\u10DB\u10D8\u10E3\u10DB\u10D8",
-        "price": 3.11,
-        "change": 0
+        "price": 3.1,
+        "change": -0.01
       },
       {
         "key": "eko_superi",
         "name": "\u10D4\u10D9\u10DD \u10E1\u10E3\u10DE\u10D4\u10E0\u10D8",
-        "price": 3.01,
-        "change": 0
+        "price": 3.02,
+        "change": 0.01
       }
     ]
   }
