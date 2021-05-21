@@ -15,7 +15,7 @@
 <table>
 <tr><th colSpan="3">ვისოლი</th></tr>
 <tr><th>სახელი</th><th>ფასი</th><th>ცვლილება</th></th></tr>
-<tr><td>ეკო სუპერი</td><td>3.07</td><td>+0.02</td></tr>
+<tr><td>ეკო სუპერი</td><td>3.07</td><td>+0.022</td></tr>
 <tr><td>ეკო პრემიუმი</td><td>2.99</td><td>+0.02</td></tr>
 <tr><td>ეკო დიზელი</td><td>2.93</td><td>+0.01</td></tr>
 <tr><td>ევრო დიზელი</td><td>2.88</td><td>+0.01</td></tr>
