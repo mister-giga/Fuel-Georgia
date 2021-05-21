@@ -1,4 +1,4 @@
-name: Update Fuel Data
+name: Update All
 
 on:
   workflow_dispatch:
