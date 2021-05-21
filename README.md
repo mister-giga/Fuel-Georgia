@@ -1,7 +1,9 @@
 # Fuel-Georgia
 საქართველოში საწვავის მომწოდებელი კომპანიების სია, გასამართი სადგურების ადგილმდებარეობები, საწვავის ფასები და ამ ფასების ცვლილების ისტორია
 
-<!--PRICING-START-->ამჯერად ყოველდღიურად მოწმდება 5 კომპანიის მონაცემები
+<!--PRICING-START-->
+ამჯერად ყოველდღიურად მოწმდება 5 კომპანიის მონაცემები
+
 <div>
 <img src="https://raw.githubusercontent.com/mister-giga/Fuel-Georgia/main/blob/wissol.png" alt="wissol logo" width="50" >
 <img src="https://raw.githubusercontent.com/mister-giga/Fuel-Georgia/main/blob/lukoil.png" alt="lukoil logo" width="50" >
@@ -9,6 +11,7 @@
 <img src="https://raw.githubusercontent.com/mister-giga/Fuel-Georgia/main/blob/gulf.png" alt="gulf logo" width="50" >
 <img src="https://raw.githubusercontent.com/mister-giga/Fuel-Georgia/main/blob/socar.png" alt="socar logo" width="50" >
 </div>
+
 <table>
 <tr><th colSpan="3">ვისოლი</th></tr>
 <tr><th>სახელი</th><th>ფასი</th><th>ცვლილება</th></th></tr>
@@ -61,4 +64,4 @@
 <tr><td>LPG</td><td>1.55</td><td>+0.05</td></tr>
 <tr><td>CNG ბუნებრივი აირი</td><td>1.40</td><td>+0.05</td></tr>
 </table>
-
+<!--PRICING-END-->
