@@ -1,0 +1,229 @@
+[
+  {
+    "key": "wissol",
+    "name": "ვისოლი",
+    "color": "#00A651",
+    "fuels": [
+      {
+        "key": "eko_superi",
+        "name": "ეკო სუპერი",
+        "price": 3.07,
+        "change": 0.02
+      },
+      {
+        "key": "eko_premiumi",
+        "name": "ეკო პრემიუმი",
+        "price": 2.99,
+        "change": 0.02
+      },
+      {
+        "key": "eko_dizeli",
+        "name": "ეკო დიზელი",
+        "price": 2.93,
+        "change": 0.01
+      },
+      {
+        "key": "evro_dizeli",
+        "name": "ევრო დიზელი",
+        "price": 2.88,
+        "change": 0.01
+      },
+      {
+        "key": "evro_regulari",
+        "name": "ევრო რეგულარი",
+        "price": 2.90,
+        "change": 0.02
+      },
+      {
+        "key": "dizel_enerji",
+        "name": "დიზელ ენერჯი",
+        "price": 2.83,
+        "change": 0.01
+      },
+      {
+        "key": "visol_gazi",
+        "name": "ვისოლ გაზი",
+        "price": 1.44,
+        "change": 0.05
+      }
+    ]
+  },
+  {
+    "key": "lukoil",
+    "name": "ლუკოილი",
+    "color": "#DE1A22",
+    "fuels": [
+      {
+        "key": "superi_ecto_100",
+        "name": "სუპერი ecto 100",
+        "price": 3.15,
+        "change": 0.05
+      },
+      {
+        "key": "evro_superi",
+        "name": "ევრო სუპერი",
+        "price": 3.05,
+        "change": 0.04
+      },
+      {
+        "key": "premium_avangardi",
+        "name": "პრემიუმ ავანგარდი",
+        "price": 2.98,
+        "change": 0.04
+      },
+      {
+        "key": "evro_regulari",
+        "name": "ევრო რეგულარი",
+        "price": 2.85,
+        "change": 0.05
+      },
+      {
+        "key": "evro_dizeli",
+        "name": "ევრო დიზელი",
+        "price": 2.92,
+        "change": 0.06
+      },
+      {
+        "key": "dizeli",
+        "name": "დიზელი",
+        "price": 2.87,
+        "change": 0.06
+      }
+    ]
+  },
+  {
+    "key": "rompetrol",
+    "name": "რომპეტროლი",
+    "color": "#FF9914",
+    "fuels": [
+      {
+        "key": "efix_superi",
+        "name": "Efix სუპერი",
+        "price": 3.05,
+        "change": 0
+      },
+      {
+        "key": "efix_evro_premiumi",
+        "name": "Efix ევრო პრემიუმი",
+        "price": 2.99,
+        "change": 0
+      },
+      {
+        "key": "evro_regulari",
+        "name": "ევრო რეგულარი",
+        "price": 2.85,
+        "change": 0
+      },
+      {
+        "key": "efix_evro_dizeli",
+        "name": "Efix ევრო დიზელი",
+        "price": 2.94,
+        "change": 0
+      },
+      {
+        "key": "evro_dizeli",
+        "name": "ევრო დიზელი",
+        "price": 2.84,
+        "change": 0
+      }
+    ]
+  },
+  {
+    "key": "gulf",
+    "name": "გალფი",
+    "color": "#F2682B",
+    "fuels": [
+      {
+        "key": "gforce_superi",
+        "name": "G-Force სუპერი",
+        "price": 3.05,
+        "change": 0.06
+      },
+      {
+        "key": "gforce_premiumi",
+        "name": "G-Force პრემიუმი",
+        "price": 2.99,
+        "change": 0.04
+      },
+      {
+        "key": "gforce_evro_regulari",
+        "name": "G-Force ევრო რეგულარი",
+        "price": 2.89,
+        "change": 0.04
+      },
+      {
+        "key": "evro_regulari",
+        "name": "ევრო რეგულარი",
+        "price": 2.83,
+        "change": 0.04
+      },
+      {
+        "key": "gforce_evro_dizeli",
+        "name": "G-Force ევრო დიზელი",
+        "price": 2.93,
+        "change": 0.04
+      },
+      {
+        "key": "evro_dizeli",
+        "name": "ევრო დიზელი",
+        "price": 2.87,
+        "change": 0.04
+      },
+      {
+        "key": "gazi",
+        "name": "გაზი",
+        "price": 1.44,
+        "change": 0.05
+      }
+    ]
+  },
+  {
+    "key": "socar",
+    "name": "სოკარი",
+    "color": "#EC1529",
+    "fuels": [
+      {
+        "key": "nano_superi",
+        "name": "ნანო სუპერი",
+        "price": 3.05,
+        "change": 0.04
+      },
+      {
+        "key": "nano_premiumi",
+        "name": "ნანო პრემიუმი",
+        "price": 2.98,
+        "change": 0.04
+      },
+      {
+        "key": "nano_evro_regulari",
+        "name": "ნანო ევრო რეგულარი",
+        "price": 2.89,
+        "change": 0.05
+      },
+      {
+        "key": "nano_dizeli",
+        "name": "ნანო დიზელი",
+        "price": 2.78,
+        "change": 0.04
+      },
+      {
+        "key": "nano_evro_dizeli",
+        "name": "ნანო ევრო დიზელი",
+        "price": 2.88,
+        "change": 0.04
+      },
+      {
+        "key": "lpg",
+        "name": "LPG",
+        "price": 1.55,
+        "change": 0.05
+      },
+      {
+        "key": "cng_bunebrivi_airi",
+        "name": "CNG ბუნებრივი აირი",
+        "price": 1.40,
+        "change": 0.05
+      }
+    ]
+  }
+]
