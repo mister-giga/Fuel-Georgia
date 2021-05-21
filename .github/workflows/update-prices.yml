@@ -3,7 +3,7 @@ name: Update Fuel Prices
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 0,4,8,12,16,20 * * *"
+    - cron: "0 0/5 * * *"
     
 jobs:
   run:
