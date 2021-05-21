@@ -1,0 +1,16 @@
+name: Update Fuel Data
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "1 * * * *"    
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: mister-giga/Fuel-Georgia-Parser@master
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          UPDATE_LOCATIONS: true
+          UPDATE_PRICES: false
