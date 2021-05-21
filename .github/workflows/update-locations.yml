@@ -1,4 +1,4 @@
-name: Update Fuel Data
+name: Update Locations
 
 on:
   workflow_dispatch:
