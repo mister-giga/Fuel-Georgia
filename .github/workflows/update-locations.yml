@@ -3,7 +3,7 @@ name: Update Fuel Data
 on:
   workflow_dispatch:
   schedule:
-    - cron: "1 * * * *"    
+    - cron: "30 4 1,16 * *"    
 jobs:
   run:
     runs-on: ubuntu-latest
