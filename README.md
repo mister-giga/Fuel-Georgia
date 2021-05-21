@@ -3,7 +3,6 @@
 
 <!--PRICING-START-->
 ამჯერად ყოველდღიურად მოწმდება 5 კომპანიის მონაცემები
-
 <div>
 <img src="https://raw.githubusercontent.com/mister-giga/Fuel-Georgia/main/blob/wissol.png" alt="wissol logo" width="50" >
 <img src="https://raw.githubusercontent.com/mister-giga/Fuel-Georgia/main/blob/lukoil.png" alt="lukoil logo" width="50" >
@@ -11,11 +10,11 @@
 <img src="https://raw.githubusercontent.com/mister-giga/Fuel-Georgia/main/blob/gulf.png" alt="gulf logo" width="50" >
 <img src="https://raw.githubusercontent.com/mister-giga/Fuel-Georgia/main/blob/socar.png" alt="socar logo" width="50" >
 </div>
-
+კომპანიების საწვავის მიმდინარე ფასები მოცემულია შემდეგ ცხრილებში
 <table>
 <tr><th colSpan="3">ვისოლი</th></tr>
 <tr><th>სახელი</th><th>ფასი</th><th>ცვლილება</th></th></tr>
-<tr><td>ეკო სუპერი</td><td>3.07</td><td>+0.022</td></tr>
+<tr><td>ეკო სუპერი</td><td>3.07</td><td>+0.02</td></tr>
 <tr><td>ეკო პრემიუმი</td><td>2.99</td><td>+0.02</td></tr>
 <tr><td>ეკო დიზელი</td><td>2.93</td><td>+0.01</td></tr>
 <tr><td>ევრო დიზელი</td><td>2.88</td><td>+0.01</td></tr>
@@ -64,4 +63,5 @@
 <tr><td>LPG</td><td>1.55</td><td>+0.05</td></tr>
 <tr><td>CNG ბუნებრივი აირი</td><td>1.40</td><td>+0.05</td></tr>
 </table>
+
 <!--PRICING-END-->
