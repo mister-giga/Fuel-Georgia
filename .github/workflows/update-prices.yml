@@ -4,7 +4,11 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "0 4 * * *"
-
+    - cron: "0 8 * * *"
+    - cron: "0 12 * * *"
+    - cron: "0 16 * * *"
+    - cron: "0 20 * * *"
+    
 jobs:
   run:
     runs-on: ubuntu-latest
@@ -13,5 +17,5 @@ jobs:
       - uses: mister-giga/Fuel-Georgia-Parser@master
         with:
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          UPDATE_LOCATIONS: true
+          UPDATE_LOCATIONS: false
           UPDATE_PRICES: true
