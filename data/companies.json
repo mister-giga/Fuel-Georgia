@@ -2,6 +2,7 @@
   {
     "key": "wissol",
     "name": "ვისოლი",
+    "color": "#00A651",
     "fuels": [
       {
         "key": "eko_superi",
@@ -50,6 +51,7 @@
   {
     "key": "lukoil",
     "name": "ლუკოილი",
+    "color": "#DE1A22",
     "fuels": [
       {
         "key": "superi_ecto_100",
@@ -92,6 +94,7 @@
   {
     "key": "rompetrol",
     "name": "რომპეტროლი",
+    "color": "#FF9914",
     "fuels": [
       {
         "key": "efix_superi",
@@ -128,6 +131,7 @@
   {
     "key": "gulf",
     "name": "გალფი",
+    "color": "#F2682B",
     "fuels": [
       {
         "key": "gforce_superi",
@@ -169,6 +173,55 @@
         "key": "gazi",
         "name": "გაზი",
         "price": 1.44,
+        "change": 0
+      }
+    ]
+  },
+  {
+    "key": "socar",
+    "name": "სოკარი",
+    "color": "#EC1529",
+    "fuels": [
+      {
+        "key": "nano_superi",
+        "name": "ნანო სუპერი",
+        "price": 3.05,
+        "change": 0
+      },
+      {
+        "key": "nano_premiumi",
+        "name": "ნანო პრემიუმი",
+        "price": 2.98,
+        "change": 0
+      },
+      {
+        "key": "nano_evro_regulari",
+        "name": "ნანო ევრო რეგულარი",
+        "price": 2.89,
+        "change": 0
+      },
+      {
+        "key": "nano_dizeli",
+        "name": "ნანო დიზელი",
+        "price": 2.78,
+        "change": 0
+      },
+      {
+        "key": "nano_evro_dizeli",
+        "name": "ნანო ევრო დიზელი",
+        "price": 2.88,
+        "change": 0
+      },
+      {
+        "key": "lpg",
+        "name": "LPG",
+        "price": 1.55,
+        "change": 0
+      },
+      {
+        "key": "cng_bunebrivi_airi",
+        "name": "CNG ბუნებრივი აირი",
+        "price": 1.40,
         "change": 0
       }
     ]
