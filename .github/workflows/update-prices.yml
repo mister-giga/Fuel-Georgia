@@ -1,4 +1,4 @@
-name: Update Fuel Data
+name: Update Fuel Prices
 
 on:
   workflow_dispatch:
