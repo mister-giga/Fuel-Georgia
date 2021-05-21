@@ -3,11 +3,7 @@ name: Update Fuel Data
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 4 * * *"
-    - cron: "0 8 * * *"
-    - cron: "0 12 * * *"
-    - cron: "0 16 * * *"
-    - cron: "0 20 * * *"
+    - cron: "0 0,4,8,12,16,20 * * *"
     
 jobs:
   run:
