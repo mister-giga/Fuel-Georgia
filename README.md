@@ -1,7 +1,7 @@
 # Fuel-Georgia
 საქართველოში საწვავის მომწოდებელი კომპანიების სია, გასამართი სადგურების ადგილმდებარეობები, საწვავის ფასები და ამ ფასების ცვლილების ისტორია
 
-სადემონსტრაციო [ვებ აპლიკაცია](https://mister-giga.github.io/Fuel-Georgia-ReactJS/) რომელიც იყენებს ამ მონაცემებს
+სადემონსტრაციო [ვებ აპლიკაცია](https://mister-giga.github.io/Fuel-Georgia-ReactJS/) რომელიც იყენებს ამ მონაცემებს. [(source)](https://github.com/mister-giga/Fuel-Georgia-ReactJS)
 
 <!--PRICING-START-->
 ამჯერად ყოველდღიურად მოწმდება 5 კომპანიის მონაცემები
