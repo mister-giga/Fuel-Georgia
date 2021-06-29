@@ -28,11 +28,11 @@
 <tr><th colSpan="3">ლუკოილი</th></tr>
 <tr><th>სახელი</th><th>ფასი</th><th>ცვლილება</th></th></tr>
 <tr><td>სუპერი ecto 100</td><td>3.15</td><td>+0.05</td></tr>
-<tr><td>ევრო სუპერი</td><td>3.05</td><td>+0.04</td></tr>
-<tr><td>პრემიუმ ავანგარდი</td><td>2.98</td><td>+0.04</td></tr>
-<tr><td>ევრო რეგულარი</td><td>2.85</td><td>+0.05</td></tr>
-<tr><td>ევრო დიზელი</td><td>2.92</td><td>+0.06</td></tr>
-<tr><td>დიზელი</td><td>2.87</td><td>+0.06</td></tr>
+<tr><td>ევრო სუპერი</td><td>3.08</td><td>+0.03</td></tr>
+<tr><td>პრემიუმ ავანგარდი</td><td>3.00</td><td>+0.02</td></tr>
+<tr><td>ევრო რეგულარი</td><td>2.89</td><td>+0.04</td></tr>
+<tr><td>ევრო დიზელი</td><td>2.93</td><td>+0.01</td></tr>
+<tr><td>დიზელი</td><td>2.88</td><td>+0.01</td></tr>
 </table>
 <table>
 <tr><th colSpan="3">რომპეტროლი</th></tr>
