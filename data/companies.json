@@ -7,37 +7,37 @@
       {
         "key": "eko_superi",
         "name": "ეკო სუპერი",
-        "price": 3.19,
-        "change": 0.02
+        "price": 3.20,
+        "change": 0.01
       },
       {
         "key": "eko_premiumi",
         "name": "ეკო პრემიუმი",
-        "price": 3.12,
-        "change": 0.03
+        "price": 3.14,
+        "change": 0.02
       },
       {
         "key": "eko_dizeli",
         "name": "ეკო დიზელი",
-        "price": 2.99,
-        "change": 0.02
+        "price": 3.02,
+        "change": 0.03
       },
       {
         "key": "evro_dizeli",
         "name": "ევრო დიზელი",
-        "price": 2.94,
+        "price": 2.96,
         "change": 0.02
       },
       {
         "key": "evro_regulari",
         "name": "ევრო რეგულარი",
-        "price": 2.95,
+        "price": 2.98,
         "change": 0.03
       },
       {
         "key": "dizel_enerji",
         "name": "დიზელ ენერჯი",
-        "price": 2.89,
+        "price": 2.91,
         "change": 0.02
       },
       {
@@ -215,8 +215,8 @@
       {
         "key": "lpg",
         "name": "LPG",
-        "price": 1.45,
-        "change": 0.10
+        "price": 1.50,
+        "change": 0.05
       },
       {
         "key": "cng_bunebrivi_airi",

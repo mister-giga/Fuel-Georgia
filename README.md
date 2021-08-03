@@ -16,12 +16,12 @@
 <table>
 <tr><th colSpan="3">ვისოლი</th></tr>
 <tr><th>სახელი</th><th>ფასი</th><th>ცვლილება</th></th></tr>
-<tr><td>ეკო სუპერი</td><td>3.19</td><td>+0.02</td></tr>
-<tr><td>ეკო პრემიუმი</td><td>3.12</td><td>+0.03</td></tr>
-<tr><td>ეკო დიზელი</td><td>2.99</td><td>+0.02</td></tr>
-<tr><td>ევრო დიზელი</td><td>2.94</td><td>+0.02</td></tr>
-<tr><td>ევრო რეგულარი</td><td>2.95</td><td>+0.03</td></tr>
-<tr><td>დიზელ ენერჯი</td><td>2.89</td><td>+0.02</td></tr>
+<tr><td>ეკო სუპერი</td><td>3.20</td><td>+0.01</td></tr>
+<tr><td>ეკო პრემიუმი</td><td>3.14</td><td>+0.02</td></tr>
+<tr><td>ეკო დიზელი</td><td>3.02</td><td>+0.03</td></tr>
+<tr><td>ევრო დიზელი</td><td>2.96</td><td>+0.02</td></tr>
+<tr><td>ევრო რეგულარი</td><td>2.98</td><td>+0.03</td></tr>
+<tr><td>დიზელ ენერჯი</td><td>2.91</td><td>+0.02</td></tr>
 <tr><td>ვისოლ გაზი</td><td>1.44</td><td>+0.05</td></tr>
 </table>
 <table>
@@ -62,7 +62,7 @@
 <tr><td>ნანო ევრო რეგულარი</td><td>2.93</td><td>+0.04</td></tr>
 <tr><td>ნანო დიზელი</td><td>2.82</td><td>+0.04</td></tr>
 <tr><td>ნანო ევრო დიზელი</td><td>2.92</td><td>+0.04</td></tr>
-<tr><td>LPG</td><td>1.45</td><td>+0.10</td></tr>
+<tr><td>LPG</td><td>1.50</td><td>+0.05</td></tr>
 <tr><td>CNG ბუნებრივი აირი</td><td>1.40</td><td>+0.05</td></tr>
 </table>
 
