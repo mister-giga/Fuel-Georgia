@@ -56,20 +56,20 @@
       {
         "key": "superi_ecto_100",
         "name": "სუპერი ecto 100",
-        "price": 3.30,
+        "price": 3.40,
         "change": 0.10
       },
       {
         "key": "evro_superi",
         "name": "ევრო სუპერი",
-        "price": 3.19,
-        "change": 0.05
+        "price": 3.25,
+        "change": 0.06
       },
       {
         "key": "premium_avangardi",
         "name": "პრემიუმ ავანგარდი",
-        "price": 3.07,
-        "change": 0.02
+        "price": 3.12,
+        "change": 0.05
       },
       {
         "key": "evro_regulari",
