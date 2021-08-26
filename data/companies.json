@@ -148,13 +148,13 @@
       {
         "key": "gforce_evro_regulari",
         "name": "G-Force ევრო რეგულარი",
-        "price": 3.07,
-        "change": 0.04
+        "price": 3.09,
+        "change": 0.02
       },
       {
         "key": "evro_regulari",
         "name": "ევრო რეგულარი",
-        "price": 2.99,
+        "price": 3.03,
         "change": 0.04
       },
       {
@@ -172,8 +172,8 @@
       {
         "key": "gazi",
         "name": "გაზი",
-        "price": 1.44,
-        "change": 0.05
+        "price": 1.14,
+        "change": -0.30
       }
     ]
   },
