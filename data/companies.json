@@ -136,14 +136,14 @@
       {
         "key": "gforce_superi",
         "name": "G-Force სუპერი",
-        "price": 3.33,
-        "change": 0.08
+        "price": 3.37,
+        "change": 0.04
       },
       {
         "key": "gforce_premiumi",
         "name": "G-Force პრემიუმი",
-        "price": 3.23,
-        "change": 0.06
+        "price": 3.27,
+        "change": 0.04
       },
       {
         "key": "gforce_evro_regulari",
@@ -160,14 +160,14 @@
       {
         "key": "gforce_evro_dizeli",
         "name": "G-Force ევრო დიზელი",
-        "price": 3.13,
-        "change": 0.06
+        "price": 3.17,
+        "change": 0.04
       },
       {
         "key": "evro_dizeli",
         "name": "ევრო დიზელი",
-        "price": 3.05,
-        "change": 0.06
+        "price": 3.09,
+        "change": 0.04
       },
       {
         "key": "gazi",
@@ -185,20 +185,20 @@
       {
         "key": "nano_superi",
         "name": "ნანო სუპერი",
-        "price": 3.22,
-        "change": 0.07
+        "price": 3.26,
+        "change": 0.04
       },
       {
         "key": "nano_premiumi",
         "name": "ნანო პრემიუმი",
-        "price": 3.14,
-        "change": 0.07
+        "price": 3.18,
+        "change": 0.04
       },
       {
         "key": "nano_evro_regulari",
         "name": "ნანო ევრო რეგულარი",
-        "price": 2.91,
-        "change": 0.10
+        "price": 2.99,
+        "change": 0.08
       },
       {
         "key": "nano_dizeli",
@@ -209,8 +209,8 @@
       {
         "key": "nano_evro_dizeli",
         "name": "ნანო ევრო დიზელი",
-        "price": 2.94,
-        "change": 0.07
+        "price": 2.99,
+        "change": 0.05
       },
       {
         "key": "lpg",

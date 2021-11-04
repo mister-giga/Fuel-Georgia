@@ -46,22 +46,22 @@
 <table>
 <tr><th colSpan="3">გალფი</th></tr>
 <tr><th>სახელი</th><th>ფასი</th><th>ცვლილება</th></th></tr>
-<tr><td>G-Force სუპერი</td><td>3.33</td><td>+0.08</td></tr>
-<tr><td>G-Force პრემიუმი</td><td>3.23</td><td>+0.06</td></tr>
+<tr><td>G-Force სუპერი</td><td>3.37</td><td>+0.04</td></tr>
+<tr><td>G-Force პრემიუმი</td><td>3.27</td><td>+0.04</td></tr>
 <tr><td>G-Force ევრო რეგულარი</td><td>3.15</td><td>+0.06</td></tr>
 <tr><td>ევრო რეგულარი</td><td>3.09</td><td>+0.06</td></tr>
-<tr><td>G-Force ევრო დიზელი</td><td>3.13</td><td>+0.06</td></tr>
-<tr><td>ევრო დიზელი</td><td>3.05</td><td>+0.06</td></tr>
+<tr><td>G-Force ევრო დიზელი</td><td>3.17</td><td>+0.04</td></tr>
+<tr><td>ევრო დიზელი</td><td>3.09</td><td>+0.04</td></tr>
 <tr><td>გაზი</td><td>1.44</td><td>+0.30</td></tr>
 </table>
 <table>
 <tr><th colSpan="3">სოკარი</th></tr>
 <tr><th>სახელი</th><th>ფასი</th><th>ცვლილება</th></th></tr>
-<tr><td>ნანო სუპერი</td><td>3.22</td><td>+0.07</td></tr>
-<tr><td>ნანო პრემიუმი</td><td>3.14</td><td>+0.07</td></tr>
-<tr><td>ნანო ევრო რეგულარი</td><td>2.91</td><td>+0.10</td></tr>
+<tr><td>ნანო სუპერი</td><td>3.26</td><td>+0.04</td></tr>
+<tr><td>ნანო პრემიუმი</td><td>3.18</td><td>+0.04</td></tr>
+<tr><td>ნანო ევრო რეგულარი</td><td>2.99</td><td>+0.08</td></tr>
 <tr><td>ნანო დიზელი</td><td>2.84</td><td>+0.10</td></tr>
-<tr><td>ნანო ევრო დიზელი</td><td>2.94</td><td>+0.07</td></tr>
+<tr><td>ნანო ევრო დიზელი</td><td>2.99</td><td>+0.05</td></tr>
 <tr><td>LPG</td><td>1.80</td><td>-0.25</td></tr>
 <tr><td>CNG ბუნებრივი აირი</td><td>1.40</td><td>+0.05</td></tr>
 </table>
