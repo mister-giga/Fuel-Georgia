@@ -22,7 +22,7 @@
 <tr><td>ევრო დიზელი</td><td>3.22</td><td>+0.03</td></tr>
 <tr><td>ევრო რეგულარი</td><td>3.15</td><td>-0.01</td></tr>
 <tr><td>დიზელ ენერჯი</td><td>3.18</td><td>+0.03</td></tr>
-<tr><td>ვისოლ გაზი</td><td>1.44</td><td>+0.05</td></tr>
+<tr><td>ვისოლ გაზი</td><td>1.59</td><td>+0.15</td></tr>
 </table>
 <table>
 <tr><th colSpan="3">ლუკოილი</th></tr>
