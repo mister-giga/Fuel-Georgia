@@ -132,50 +132,7 @@
     "key": "gulf",
     "name": "გალფი",
     "color": "#F2682B",
-    "fuels": [
-      {
-        "key": "gforce_superi",
-        "name": "G-Force სუპერი",
-        "price": 3.49,
-        "change": 0.10
-      },
-      {
-        "key": "gforce_premiumi",
-        "name": "G-Force პრემიუმი",
-        "price": 3.45,
-        "change": 0.12
-      },
-      {
-        "key": "gforce_evro_regulari",
-        "name": "G-Force ევრო რეგულარი",
-        "price": 3.39,
-        "change": 0.10
-      },
-      {
-        "key": "evro_regulari",
-        "name": "ევრო რეგულარი",
-        "price": 3.31,
-        "change": 0.08
-      },
-      {
-        "key": "gforce_evro_dizeli",
-        "name": "G-Force ევრო დიზელი",
-        "price": 3.43,
-        "change": 0.14
-      },
-      {
-        "key": "evro_dizeli",
-        "name": "ევრო დიზელი",
-        "price": 3.37,
-        "change": 0.14
-      },
-      {
-        "key": "gazi",
-        "name": "გაზი",
-        "price": 1.59,
-        "change": 0.15
-      }
-    ]
+    "fuels": []
   },
   {
     "key": "socar",
