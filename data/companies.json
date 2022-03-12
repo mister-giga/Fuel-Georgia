@@ -142,20 +142,20 @@
       {
         "key": "nano_superi",
         "name": "ნანო სუპერი",
-        "price": 3.53,
-        "change": 0.05
+        "price": 3.65,
+        "change": 0.12
       },
       {
         "key": "nano_premiumi",
         "name": "ნანო პრემიუმი",
-        "price": 3.47,
-        "change": 0.05
+        "price": 3.55,
+        "change": 0.08
       },
       {
         "key": "nano_evro_regulari",
         "name": "ნანო ევრო რეგულარი",
-        "price": 3.38,
-        "change": 0.10
+        "price": 3.43,
+        "change": 0.05
       },
       {
         "key": "nano_dizeli",
