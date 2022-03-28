@@ -160,14 +160,14 @@
       {
         "key": "nano_dizeli",
         "name": "ნანო დიზელი",
-        "price": 3.85,
-        "change": 0.05
+        "price": 3.95,
+        "change": 0.10
       },
       {
         "key": "nano_evro_dizeli",
         "name": "ნანო ევრო დიზელი",
-        "price": 4.05,
-        "change": 0.08
+        "price": 4.20,
+        "change": 0.15
       },
       {
         "key": "lpg",
