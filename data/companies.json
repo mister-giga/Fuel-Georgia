@@ -19,14 +19,14 @@
       {
         "key": "eko_dizeli",
         "name": "ეკო დიზელი",
-        "price": 4.48,
-        "change": 0.05
+        "price": 4.49,
+        "change": 0.01
       },
       {
         "key": "evro_dizeli",
         "name": "ევრო დიზელი",
-        "price": 4.44,
-        "change": 0.05
+        "price": 4.46,
+        "change": 0.02
       },
       {
         "key": "evro_regulari",
@@ -37,8 +37,8 @@
       {
         "key": "dizel_enerji",
         "name": "დიზელ ენერჯი",
-        "price": 4.24,
-        "change": 0.02
+        "price": 4.38,
+        "change": 0.14
       },
       {
         "key": "visol_gazi",
