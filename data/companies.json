@@ -43,8 +43,8 @@
       {
         "key": "visol_gazi",
         "name": "ვისოლ გაზი",
-        "price": 1.59,
-        "change": 0.15
+        "price": 1.69,
+        "change": 0.10
       }
     ]
   },
@@ -185,8 +185,8 @@
       {
         "key": "nano_superi",
         "name": "ნანო სუპერი",
-        "price": 4.05,
-        "change": -0.05
+        "price": 4.09,
+        "change": 0.04
       },
       {
         "key": "nano_premiumi",
