@@ -63,7 +63,7 @@
 <tr><td>ნანო დიზელი</td><td>4.45</td><td>+0.10</td></tr>
 <tr><td>ნანო ევრო დიზელი</td><td>4.60</td><td>+0.05</td></tr>
 <tr><td>LPG</td><td>2.00</td><td>+0.05</td></tr>
-<tr><td>CNG ბუნებრივი აირი</td><td>1.55</td><td>+0.15</td></tr>
+<tr><td>CNG ბუნებრივი აირი</td><td>1.65</td><td>+0.10</td></tr>
 </table>
 
 <!--PRICING-END-->
