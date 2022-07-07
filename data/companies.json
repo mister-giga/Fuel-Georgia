@@ -99,14 +99,14 @@
       {
         "key": "efix_superi",
         "name": "Efix სუპერი",
-        "price": 4.15,
-        "change": 0.03
+        "price": 4.20,
+        "change": 0.05
       },
       {
         "key": "efix_evro_premiumi",
         "name": "Efix ევრო პრემიუმი",
-        "price": 4.10,
-        "change": 0.02
+        "price": 4.15,
+        "change": 0.05
       },
       {
         "key": "evro_regulari",
@@ -117,14 +117,14 @@
       {
         "key": "efix_evro_dizeli",
         "name": "Efix ევრო დიზელი",
-        "price": 4.67,
-        "change": 0.17
+        "price": 4.77,
+        "change": 0.10
       },
       {
         "key": "evro_dizeli",
         "name": "ევრო დიზელი",
-        "price": 4.60,
-        "change": 0.20
+        "price": 4.70,
+        "change": 0.10
       }
     ]
   },
@@ -203,13 +203,13 @@
       {
         "key": "nano_dizeli",
         "name": "ნანო დიზელი",
-        "price": 4.60,
+        "price": 4.65,
         "change": 0.05
       },
       {
         "key": "nano_evro_dizeli",
         "name": "ნანო ევრო დიზელი",
-        "price": 4.70,
+        "price": 4.75,
         "change": 0.05
       },
       {
