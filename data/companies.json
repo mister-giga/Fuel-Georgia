@@ -191,7 +191,7 @@
       {
         "key": "nano_premiumi",
         "name": "ნანო პრემიუმი",
-        "price": 3.95,
+        "price": 4.00,
         "change": 0.05
       },
       {
@@ -203,7 +203,7 @@
       {
         "key": "nano_dizeli",
         "name": "ნანო დიზელი",
-        "price": 4.65,
+        "price": 4.70,
         "change": 0.05
       },
       {
