@@ -197,14 +197,14 @@
       {
         "key": "nano_evro_regulari",
         "name": "ნანო ევრო რეგულარი",
-        "price": 3.48,
-        "change": -0.10
+        "price": 3.43,
+        "change": -0.05
       },
       {
         "key": "nano_dizeli",
         "name": "ნანო დიზელი",
-        "price": 4.32,
-        "change": -0.08
+        "price": 4.27,
+        "change": -0.05
       },
       {
         "key": "nano_evro_dizeli",
