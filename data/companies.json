@@ -7,38 +7,38 @@
       {
         "key": "eko_superi",
         "name": "ეკო სუპერი",
-        "price": 3.98,
-        "change": -0.07
+        "price": 3.94,
+        "change": -0.04
       },
       {
         "key": "eko_premiumi",
         "name": "ეკო პრემიუმი",
-        "price": 3.64,
+        "price": 3.59,
         "change": -0.05
       },
       {
         "key": "eko_dizeli",
         "name": "ეკო დიზელი",
-        "price": 4.19,
-        "change": -0.08
+        "price": 4.13,
+        "change": -0.06
       },
       {
         "key": "evro_dizeli",
         "name": "ევრო დიზელი",
-        "price": 4.09,
-        "change": -0.08
+        "price": 4.03,
+        "change": -0.06
       },
       {
         "key": "evro_regulari",
         "name": "ევრო რეგულარი",
-        "price": 3.34,
+        "price": 3.29,
         "change": -0.05
       },
       {
         "key": "dizel_enerji",
         "name": "დიზელ ენერჯი",
-        "price": 3.99,
-        "change": -0.09
+        "price": 3.93,
+        "change": -0.06
       },
       {
         "key": "visol_gazi",
