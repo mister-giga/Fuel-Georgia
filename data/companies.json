@@ -105,14 +105,14 @@
       {
         "key": "efix_evro_premiumi",
         "name": "Efix ევრო პრემიუმი",
-        "price": 3.59,
-        "change": -0.10
+        "price": 3.54,
+        "change": -0.05
       },
       {
         "key": "evro_regulari",
         "name": "ევრო რეგულარი",
-        "price": 3.39,
-        "change": -0.11
+        "price": 3.34,
+        "change": -0.05
       },
       {
         "key": "efix_evro_dizeli",
