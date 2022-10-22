@@ -142,13 +142,13 @@
       {
         "key": "gforce_premiumi",
         "name": "G-Force პრემიუმი",
-        "price": 3.54,
-        "change": -0.05
+        "price": 3.44,
+        "change": -0.10
       },
       {
         "key": "gforce_evro_regulari",
         "name": "G-Force ევრო რეგულარი",
-        "price": 3.34,
+        "price": 3.29,
         "change": -0.05
       },
       {
