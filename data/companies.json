@@ -7,13 +7,13 @@
       {
         "key": "eko_superi",
         "name": "ეკო სუპერი",
-        "price": 3.94,
-        "change": -0.04
+        "price": 3.89,
+        "change": -0.05
       },
       {
         "key": "eko_premiumi",
         "name": "ეკო პრემიუმი",
-        "price": 3.54,
+        "price": 3.49,
         "change": -0.05
       },
       {
@@ -31,7 +31,7 @@
       {
         "key": "evro_regulari",
         "name": "ევრო რეგულარი",
-        "price": 3.29,
+        "price": 3.24,
         "change": -0.05
       },
       {
