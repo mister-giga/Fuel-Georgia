@@ -13,8 +13,8 @@
       {
         "key": "eko_premiumi",
         "name": "ეკო პრემიუმი",
-        "price": 3.25,
-        "change": -0.04
+        "price": 3.19,
+        "change": -0.06
       },
       {
         "key": "eko_dizeli",
@@ -31,7 +31,7 @@
       {
         "key": "evro_regulari",
         "name": "ევრო რეგულარი",
-        "price": 2.99,
+        "price": 2.94,
         "change": -0.05
       },
       {
