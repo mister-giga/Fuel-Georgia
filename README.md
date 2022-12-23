@@ -57,12 +57,12 @@
 <table>
 <tr><th colSpan="3">სოკარი</th></tr>
 <tr><th>სახელი</th><th>ფასი</th><th>ცვლილება</th></th></tr>
-<tr><td>ნანო სუპერი</td><td>3.80</td><td>-0.05</td></tr>
-<tr><td>ნანო პრემიუმი</td><td>3.30</td><td>-0.05</td></tr>
-<tr><td>ნანო ევრო რეგულარი</td><td>2.99</td><td>-0.05</td></tr>
-<tr><td>ნანო დიზელი</td><td>3.79</td><td>-0.05</td></tr>
+<tr><td>ნანო სუპერი</td><td>3.75</td><td>-0.05</td></tr>
+<tr><td>ნანო პრემიუმი</td><td>3.20</td><td>-0.10</td></tr>
+<tr><td>ნანო ევრო რეგულარი</td><td>2.90</td><td>-0.09</td></tr>
+<tr><td>ნანო დიზელი</td><td>3.75</td><td>-0.04</td></tr>
 <tr><td>ნანო ევრო დიზელი</td><td>3.95</td><td>-0.05</td></tr>
-<tr><td>LPG</td><td>2.00</td><td>+0.05</td></tr>
+<tr><td>LPG</td><td>1.80</td><td>-0.20</td></tr>
 <tr><td>CNG ბუნებრივი აირი</td><td>1.65</td><td>+0.10</td></tr>
 </table>
 
