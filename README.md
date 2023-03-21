@@ -37,11 +37,11 @@
 <table>
 <tr><th colSpan="3">რომპეტროლი</th></tr>
 <tr><th>სახელი</th><th>ფასი</th><th>ცვლილება</th></th></tr>
-<tr><td>Efix სუპერი</td><td>3.56</td><td>-0.03</td></tr>
-<tr><td>Efix ევრო პრემიუმი</td><td>2.89</td><td>-0.05</td></tr>
-<tr><td>ევრო რეგულარი</td><td>2.49</td><td>-0.10</td></tr>
-<tr><td>Efix ევრო დიზელი</td><td>3.59</td><td>-0.05</td></tr>
-<tr><td>ევრო დიზელი</td><td>3.54</td><td>-0.05</td></tr>
+<tr><td>Efix სუპერი</td><td>3.49</td><td>-0.07</td></tr>
+<tr><td>Efix ევრო პრემიუმი</td><td>2.69</td><td>-0.20</td></tr>
+<tr><td>ევრო რეგულარი</td><td>2.35</td><td>-0.14</td></tr>
+<tr><td>Efix ევრო დიზელი</td><td>3.55</td><td>-0.04</td></tr>
+<tr><td>ევრო დიზელი</td><td>3.45</td><td>-0.09</td></tr>
 </table>
 <table>
 <tr><th colSpan="3">გალფი</th></tr>
