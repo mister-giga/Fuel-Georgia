@@ -221,8 +221,8 @@
       {
         "key": "cng_bunebrivi_airi",
         "name": "CNG ბუნებრივი აირი",
-        "price": 1.65,
-        "change": 0.10
+        "price": 1.60,
+        "change": -0.05
       }
     ]
   }
