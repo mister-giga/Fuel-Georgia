@@ -203,13 +203,13 @@
       {
         "key": "nano_dizeli",
         "name": "ნანო დიზელი",
-        "price": 3.33,
+        "price": 3.28,
         "change": -0.05
       },
       {
         "key": "nano_evro_dizeli",
         "name": "ნანო ევრო დიზელი",
-        "price": 3.45,
+        "price": 3.40,
         "change": -0.05
       },
       {
