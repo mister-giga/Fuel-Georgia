@@ -203,14 +203,14 @@
       {
         "key": "evro_5_dizeli",
         "name": "ევრო 5 დიზელი",
-        "price": 2.89,
-        "change": -0.05
+        "price": 2.95,
+        "change": 0.06
       },
       {
         "key": "nano_evro_5_dizeli",
         "name": "ნანო ევრო 5 დიზელი",
-        "price": 3.00,
-        "change": -0.06
+        "price": 3.05,
+        "change": 0.05
       },
       {
         "key": "lpg",
