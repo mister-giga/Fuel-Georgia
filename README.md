@@ -38,10 +38,10 @@
 <tr><th colSpan="3">რომპეტროლი</th></tr>
 <tr><th>სახელი</th><th>ფასი</th><th>ცვლილება</th></th></tr>
 <tr><td>Efix სუპერი</td><td>3.69</td><td>+0.04</td></tr>
-<tr><td>Efix ევრო პრემიუმი</td><td>2.91</td><td>+0.04</td></tr>
-<tr><td>ევრო რეგულარი</td><td>2.70</td><td>+0.05</td></tr>
-<tr><td>Efix ევრო დიზელი</td><td>3.12</td><td>-0.05</td></tr>
-<tr><td>ევრო დიზელი</td><td>3.07</td><td>-0.05</td></tr>
+<tr><td>Efix ევრო პრემიუმი</td><td>2.95</td><td>+0.04</td></tr>
+<tr><td>ევრო რეგულარი</td><td>2.73</td><td>+0.03</td></tr>
+<tr><td>Efix ევრო დიზელი</td><td>3.17</td><td>+0.05</td></tr>
+<tr><td>ევრო დიზელი</td><td>3.12</td><td>+0.05</td></tr>
 </table>
 <table>
 <tr><th colSpan="3">გალფი</th></tr>
@@ -60,8 +60,8 @@
 <tr><td>ნანო სუპერი</td><td>3.70</td><td>+0.12</td></tr>
 <tr><td>ნანო პრემიუმი</td><td>3.03</td><td>+0.04</td></tr>
 <tr><td>ნანო ევრო რეგულარი</td><td>2.78</td><td>+0.04</td></tr>
-<tr><td>ევრო 5 დიზელი</td><td>2.95</td><td>+0.06</td></tr>
-<tr><td>ნანო ევრო 5 დიზელი</td><td>3.05</td><td>+0.05</td></tr>
+<tr><td>ევრო 5 დიზელი</td><td>3.00</td><td>+0.05</td></tr>
+<tr><td>ნანო ევრო 5 დიზელი</td><td>3.08</td><td>+0.03</td></tr>
 <tr><td>LPG</td><td>1.80</td><td>-0.20</td></tr>
 <tr><td>CNG ბუნებრივი აირი</td><td>1.60</td><td>-0.05</td></tr>
 </table>
