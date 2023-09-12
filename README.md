@@ -17,7 +17,7 @@
 <tr><th colSpan="3">ვისოლი</th></tr>
 <tr><th>სახელი</th><th>ფასი</th><th>ცვლილება</th></th></tr>
 <tr><td>ეკო სუპერი</td><td>3.68</td><td>+0.03</td></tr>
-<tr><td>ეკო პრემიუმი</td><td>3.09</td><td>+0.01</td></tr>
+<tr><td>ეკო პრემიუმი</td><td>3.08</td><td>-0.01</td></tr>
 <tr><td>ეკო დიზელი</td><td>3.19</td><td>+0.02</td></tr>
 <tr><td>ევრო დიზელი</td><td>3.14</td><td>+0.02</td></tr>
 <tr><td>ევრო რეგულარი</td><td>2.84</td><td>+0.02</td></tr>
@@ -46,12 +46,12 @@
 <table>
 <tr><th colSpan="3">გალფი</th></tr>
 <tr><th>სახელი</th><th>ფასი</th><th>ცვლილება</th></th></tr>
-<tr><td>G-Force სუპერი</td><td>3.69</td><td>+0.04</td></tr>
-<tr><td>G-Force პრემიუმი</td><td>3.09</td><td>+0.10</td></tr>
-<tr><td>G-Force ევრო რეგულარი</td><td>2.89</td><td>+0.10</td></tr>
-<tr><td>ევრო რეგულარი</td><td>2.79</td><td>+0.10</td></tr>
-<tr><td>G-Force ევრო დიზელი</td><td>3.15</td><td>+0.10</td></tr>
-<tr><td>ევრო დიზელი</td><td>3.05</td><td>+0.10</td></tr>
+<tr><td>G-Force სუპერი</td><td>3.79</td><td>+0.10</td></tr>
+<tr><td>G-Force პრემიუმი</td><td>3.19</td><td>+0.10</td></tr>
+<tr><td>G-Force ევრო რეგულარი</td><td>2.99</td><td>+0.10</td></tr>
+<tr><td>ევრო რეგულარი</td><td>2.89</td><td>+0.10</td></tr>
+<tr><td>G-Force ევრო დიზელი</td><td>3.25</td><td>+0.10</td></tr>
+<tr><td>ევრო დიზელი</td><td>3.15</td><td>+0.10</td></tr>
 <tr><td>გაზი</td><td>1.69</td><td>+0.10</td></tr>
 </table>
 <table>
