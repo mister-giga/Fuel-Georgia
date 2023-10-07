@@ -50,8 +50,8 @@
 <tr><td>G-Force პრემიუმი</td><td>3.37</td><td>+0.10</td></tr>
 <tr><td>G-Force ევრო რეგულარი</td><td>3.17</td><td>+0.10</td></tr>
 <tr><td>ევრო რეგულარი</td><td>3.07</td><td>+0.10</td></tr>
-<tr><td>G-Force ევრო დიზელი</td><td>3.45</td><td>+0.10</td></tr>
-<tr><td>ევრო დიზელი</td><td>3.35</td><td>+0.10</td></tr>
+<tr><td>G-Force ევრო დიზელი</td><td>3.50</td><td>+0.05</td></tr>
+<tr><td>ევრო დიზელი</td><td>3.40</td><td>+0.05</td></tr>
 <tr><td>გაზი</td><td>1.69</td><td>+0.10</td></tr>
 </table>
 <table>
