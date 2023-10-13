@@ -97,33 +97,33 @@
     "color": "#FF9914",
     "fuels": [
       {
-        "key": "efix_superi",
-        "name": "Efix სუპერი",
-        "price": 3.75,
-        "change": 0.02
+        "key": "efix_s",
+        "name": "Efix S",
+        "price": 3.78,
+        "change": 0
       },
       {
-        "key": "efix_evro_premiumi",
-        "name": "Efix ევრო პრემიუმი",
-        "price": 3.33,
-        "change": 0.05
+        "key": "efix_euro_premium",
+        "name": "Efix Euro Premium",
+        "price": 3.35,
+        "change": 0
       },
       {
         "key": "evro_regulari",
         "name": "ევრო რეგულარი",
-        "price": 3.10,
-        "change": 0.07
+        "price": 3.15,
+        "change": 0.05
       },
       {
-        "key": "efix_evro_dizeli",
-        "name": "Efix ევრო დიზელი",
-        "price": 3.37,
-        "change": 0.07
+        "key": "efix_euro_diesel",
+        "name": "Efix Euro Diesel",
+        "price": 3.44,
+        "change": 0
       },
       {
         "key": "evro_dizeli",
         "name": "ევრო დიზელი",
-        "price": 3.31,
+        "price": 3.38,
         "change": 0.07
       }
     ]
