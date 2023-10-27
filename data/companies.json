@@ -160,13 +160,13 @@
       {
         "key": "gforce_evro_dizeli",
         "name": "G-Force ევრო დიზელი",
-        "price": 3.50,
+        "price": 3.55,
         "change": 0.05
       },
       {
         "key": "evro_dizeli",
         "name": "ევრო დიზელი",
-        "price": 3.40,
+        "price": 3.45,
         "change": 0.05
       },
       {
