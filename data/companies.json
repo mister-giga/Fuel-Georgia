@@ -185,32 +185,32 @@
       {
         "key": "nano_superi",
         "name": "ნანო სუპერი",
-        "price": 3.69,
-        "change": -0.06
+        "price": 3.64,
+        "change": -0.05
       },
       {
         "key": "nano_premiumi",
         "name": "ნანო პრემიუმი",
-        "price": 3.27,
-        "change": -0.05
+        "price": 3.19,
+        "change": -0.08
       },
       {
         "key": "nano_evro_regulari",
         "name": "ნანო ევრო რეგულარი",
-        "price": 3.13,
-        "change": -0.04
+        "price": 3.03,
+        "change": -0.10
       },
       {
         "key": "evro_5_dizeli",
         "name": "ევრო 5 დიზელი",
-        "price": 3.35,
-        "change": -0.05
+        "price": 3.29,
+        "change": -0.06
       },
       {
         "key": "nano_evro_5_dizeli",
         "name": "ნანო ევრო 5 დიზელი",
-        "price": 3.43,
-        "change": -0.04
+        "price": 3.38,
+        "change": -0.05
       },
       {
         "key": "lpg",
