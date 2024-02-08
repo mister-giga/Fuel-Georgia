@@ -54,22 +54,16 @@
     "color": "#DE1A22",
     "fuels": [
       {
-        "key": "superi_ecto_100",
-        "name": "სუპერი ecto 100",
-        "price": 3.40,
-        "change": 0.10
-      },
-      {
         "key": "evro_superi",
         "name": "ევრო სუპერი",
-        "price": 3.25,
-        "change": 0.06
+        "price": 3.65,
+        "change": 0.40
       },
       {
         "key": "premium_avangardi",
         "name": "პრემიუმ ავანგარდი",
-        "price": 3.12,
-        "change": 0.05
+        "price": 3.15,
+        "change": 0.03
       },
       {
         "key": "evro_regulari",
@@ -80,14 +74,8 @@
       {
         "key": "evro_dizeli",
         "name": "ევრო დიზელი",
-        "price": 2.97,
-        "change": 0.02
-      },
-      {
-        "key": "dizeli",
-        "name": "დიზელი",
-        "price": 2.92,
-        "change": 0.02
+        "price": 3.30,
+        "change": 0.33
       }
     ]
   },
