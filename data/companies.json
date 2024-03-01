@@ -221,20 +221,20 @@
       {
         "key": "evro_5_dizeli",
         "name": "ევრო 5 დიზელი",
-        "price": 3.29,
-        "change": -0.06
+        "price": 3.24,
+        "change": -0.05
       },
       {
         "key": "nano_evro_5_dizeli",
         "name": "ნანო ევრო 5 დიზელი",
-        "price": 3.38,
+        "price": 3.33,
         "change": -0.05
       },
       {
         "key": "lpg",
         "name": "LPG",
-        "price": 2.10,
-        "change": 0.30
+        "price": 1.80,
+        "change": -0.30
       },
       {
         "key": "cng_bunebrivi_airi",
