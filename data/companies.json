@@ -99,14 +99,14 @@
       {
         "key": "efix_evro_premiumi",
         "name": "efix ევრო პრემიუმი",
-        "price": 3.19,
-        "change": -0.05
+        "price": 3.21,
+        "change": 0.02
       },
       {
         "key": "_efix_evro_premiumi_saaqcio_fasi_sadgurebze_salosi_tbilisi_da_batumi_7_batumi",
         "name": "- efix ევრო პრემიუმი (სააქციო ფასი სადგურებზე \u0022სალოსი\u0022 (თბილისი) და \u0022ბათუმი 7\u0022 (ბათუმი)",
-        "price": 3.09,
-        "change": -0.05
+        "price": 3.11,
+        "change": 0.02
       },
       {
         "key": "evro_regulari",
