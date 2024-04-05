@@ -7,38 +7,38 @@
       {
         "key": "eko_superi",
         "name": "ეკო სუპერი",
-        "price": 3.67,
+        "price": 3.69,
         "change": 0.02
       },
       {
         "key": "eko_premiumi",
         "name": "ეკო პრემიუმი",
-        "price": 3.19,
-        "change": 0.02
+        "price": 3.24,
+        "change": 0.05
       },
       {
         "key": "eko_dizeli",
         "name": "ეკო დიზელი",
-        "price": 3.35,
-        "change": -0.04
+        "price": 3.37,
+        "change": 0.02
       },
       {
         "key": "evro_dizeli",
         "name": "ევრო დიზელი",
-        "price": 3.30,
-        "change": -0.04
+        "price": 3.32,
+        "change": 0.02
       },
       {
         "key": "evro_regulari",
         "name": "ევრო რეგულარი",
-        "price": 2.99,
-        "change": 0.02
+        "price": 3.04,
+        "change": 0.05
       },
       {
         "key": "dizel_enerji",
         "name": "დიზელ ენერჯი",
-        "price": 3.25,
-        "change": -0.04
+        "price": 3.27,
+        "change": 0.02
       },
       {
         "key": "visol_gazi",
@@ -99,26 +99,26 @@
       {
         "key": "efix_evro_premiumi",
         "name": "efix ევრო პრემიუმი",
-        "price": 3.21,
-        "change": 0.02
+        "price": 3.25,
+        "change": 0.04
       },
       {
         "key": "_efix_evro_premiumi_saaqcio_fasi_sadgurebze_salosi_tbilisi_da_batumi_7_batumi",
         "name": "- efix ევრო პრემიუმი (სააქციო ფასი სადგურებზე \u0022სალოსი\u0022 (თბილისი) და \u0022ბათუმი 7\u0022 (ბათუმი)",
-        "price": 3.11,
-        "change": 0.02
+        "price": 3.15,
+        "change": 0.04
       },
       {
         "key": "evro_regulari",
         "name": "ევრო რეგულარი",
-        "price": 3.07,
-        "change": -0.05
+        "price": 3.11,
+        "change": 0.04
       },
       {
         "key": "_evro_regulari_saaqcio_fasi_sadgurebze_salosi_tbilisi_da_batumi_7_batumi",
         "name": "- ევრო რეგულარი (სააქციო ფასი სადგურებზე \u0022სალოსი\u0022 (თბილისი) და \u0022ბათუმი 7\u0022 (ბათუმი)",
-        "price": 2.97,
-        "change": -0.05
+        "price": 3.01,
+        "change": 0.04
       },
       {
         "key": "efix_evro_dizeli",
