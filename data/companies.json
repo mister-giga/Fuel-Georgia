@@ -209,13 +209,13 @@
       {
         "key": "nano_premiumi",
         "name": "ნანო პრემიუმი",
-        "price": 3.25,
-        "change": 0.04
+        "price": 3.31,
+        "change": 0.06
       },
       {
         "key": "nano_evro_regulari",
         "name": "ნანო ევრო რეგულარი",
-        "price": 3.07,
+        "price": 3.12,
         "change": 0.05
       },
       {
