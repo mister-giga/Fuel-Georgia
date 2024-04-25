@@ -27,9 +27,9 @@
 <table>
 <tr><th colSpan="3">ლუკოილი</th></tr>
 <tr><th>სახელი</th><th>ფასი</th><th>ცვლილება</th></th></tr>
-<tr><td>ევრო სუპერი</td><td>3.62</td><td>+0.04</td></tr>
-<tr><td>პრემიუმ ავანგარდი</td><td>3.15</td><td>+0.05</td></tr>
-<tr><td>ევრო რეგულარი</td><td>2.99</td><td>+0.06</td></tr>
+<tr><td>ევრო სუპერი</td><td>3.65</td><td>+0.03</td></tr>
+<tr><td>პრემიუმ ავანგარდი</td><td>3.20</td><td>+0.05</td></tr>
+<tr><td>ევრო რეგულარი</td><td>3.02</td><td>+0.03</td></tr>
 <tr><td>ევრო დიზელი</td><td>3.30</td><td>+0.05</td></tr>
 </table>
 <table>
@@ -65,7 +65,7 @@
 <tr><td>ნანო ევრო რეგულარი</td><td>3.12</td><td>+0.05</td></tr>
 <tr><td>ევრო 5 დიზელი</td><td>3.28</td><td>+0.04</td></tr>
 <tr><td>ნანო ევრო 5 დიზელი</td><td>3.36</td><td>+0.03</td></tr>
-<tr><td>LPG</td><td>1.55</td><td>-0.25</td></tr>
+<tr><td>LPG</td><td>1.80</td><td>+0.25</td></tr>
 <tr><td>CNG ბუნებრივი აირი</td><td>1.60</td><td>-0.05</td></tr>
 </table>
 

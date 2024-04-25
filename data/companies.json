@@ -56,20 +56,20 @@
       {
         "key": "evro_superi",
         "name": "ევრო სუპერი",
-        "price": 3.62,
-        "change": 0.04
+        "price": 3.65,
+        "change": 0.03
       },
       {
         "key": "premium_avangardi",
         "name": "პრემიუმ ავანგარდი",
-        "price": 3.15,
+        "price": 3.20,
         "change": 0.05
       },
       {
         "key": "evro_regulari",
         "name": "ევრო რეგულარი",
-        "price": 2.99,
-        "change": 0.06
+        "price": 3.02,
+        "change": 0.03
       },
       {
         "key": "evro_dizeli",
@@ -233,8 +233,8 @@
       {
         "key": "lpg",
         "name": "LPG",
-        "price": 1.55,
-        "change": -0.25
+        "price": 1.80,
+        "change": 0.25
       },
       {
         "key": "cng_bunebrivi_airi",
