@@ -233,8 +233,8 @@
       {
         "key": "lpg",
         "name": "LPG",
-        "price": 1.55,
-        "change": -0.25
+        "price": 1.75,
+        "change": 0.20
       },
       {
         "key": "cng_bunebrivi_airi",
