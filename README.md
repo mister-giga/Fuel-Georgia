@@ -65,7 +65,7 @@
 <tr><td>ნანო ევრო რეგულარი</td><td>3.15</td><td>+0.03</td></tr>
 <tr><td>ევრო 5 დიზელი</td><td>3.28</td><td>+0.04</td></tr>
 <tr><td>ნანო ევრო 5 დიზელი</td><td>3.36</td><td>+0.03</td></tr>
-<tr><td>LPG</td><td>2.05</td><td>+0.30</td></tr>
+<tr><td>LPG</td><td>1.80</td><td>-0.25</td></tr>
 <tr><td>CNG ბუნებრივი აირი</td><td>1.60</td><td>-0.05</td></tr>
 </table>
 
