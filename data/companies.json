@@ -154,38 +154,38 @@
       {
         "key": "gforce_superi",
         "name": "G-Force სუპერი",
-        "price": 3.69,
-        "change": -0.02
+        "price": 3.49,
+        "change": -0.20
       },
       {
         "key": "gforce_premiumi",
         "name": "G-Force პრემიუმი",
-        "price": 3.29,
-        "change": -0.02
+        "price": 3.09,
+        "change": -0.20
       },
       {
         "key": "gforce_evro_regulari",
         "name": "G-Force ევრო რეგულარი",
-        "price": 3.19,
-        "change": -0.02
+        "price": 2.99,
+        "change": -0.20
       },
       {
         "key": "evro_regulari",
         "name": "ევრო რეგულარი",
-        "price": 3.09,
-        "change": -0.02
+        "price": 2.89,
+        "change": -0.20
       },
       {
         "key": "gforce_evro_dizeli",
         "name": "G-Force ევრო დიზელი",
-        "price": 3.33,
-        "change": -0.06
+        "price": 3.07,
+        "change": -0.26
       },
       {
         "key": "evro_dizeli",
         "name": "ევრო დიზელი",
-        "price": 3.23,
-        "change": -0.06
+        "price": 2.97,
+        "change": -0.26
       },
       {
         "key": "gazi",
