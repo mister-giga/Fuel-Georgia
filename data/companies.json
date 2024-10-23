@@ -87,62 +87,62 @@
       {
         "key": "efix_superi",
         "name": "efix სუპერი",
-        "price": 3.61,
-        "change": -0.10
+        "price": 3.58,
+        "change": -0.03
       },
       {
         "key": "_efix_superi_saaqcio_fasi_sadgurebze_salosi_tbilisi_da_batumi_7_batumi",
         "name": "- efix სუპერი (სააქციო ფასი სადგურებზე \u0022სალოსი\u0022 (თბილისი) და \u0022ბათუმი 7\u0022 (ბათუმი)",
-        "price": 3.51,
-        "change": -0.10
+        "price": 3.48,
+        "change": -0.03
       },
       {
         "key": "efix_evro_premiumi",
         "name": "efix ევრო პრემიუმი",
-        "price": 3.22,
-        "change": -0.10
+        "price": 3.19,
+        "change": -0.03
       },
       {
         "key": "_efix_evro_premiumi_saaqcio_fasi_sadgurebze_salosi_tbilisi_da_batumi_7_batumi",
         "name": "- efix ევრო პრემიუმი (სააქციო ფასი სადგურებზე \u0022სალოსი\u0022 (თბილისი) და \u0022ბათუმი 7\u0022 (ბათუმი)",
-        "price": 3.12,
-        "change": -0.10
+        "price": 3.09,
+        "change": -0.03
       },
       {
         "key": "evro_regulari",
         "name": "ევრო რეგულარი",
-        "price": 3.07,
-        "change": -0.10
+        "price": 2.99,
+        "change": -0.08
       },
       {
         "key": "_evro_regulari_saaqcio_fasi_sadgurebze_salosi_tbilisi_da_batumi_7_batumi",
         "name": "- ევრო რეგულარი (სააქციო ფასი სადგურებზე \u0022სალოსი\u0022 (თბილისი) და \u0022ბათუმი 7\u0022 (ბათუმი)",
-        "price": 2.97,
-        "change": -0.10
+        "price": 2.89,
+        "change": -0.08
       },
       {
         "key": "efix_evro_dizeli",
         "name": "efix ევრო დიზელი",
-        "price": 3.26,
-        "change": -0.10
+        "price": 3.20,
+        "change": -0.06
       },
       {
         "key": "_efix_evro_dizeli_saaqcio_fasi_sadgurebze_salosi_tbilisi_da_batumi_7_batumi",
         "name": "- efix ევრო დიზელი (სააქციო ფასი სადგურებზე \u0022სალოსი\u0022 (თბილისი) და \u0022ბათუმი 7\u0022 (ბათუმი)",
-        "price": 3.16,
-        "change": -0.10
+        "price": 3.10,
+        "change": -0.06
       },
       {
         "key": "evro_dizeli",
         "name": "ევრო დიზელი",
-        "price": 3.16,
-        "change": -0.10
+        "price": 3.10,
+        "change": -0.06
       },
       {
         "key": "_evro_dizeli_saaqcio_fasi_sadgurebze_salosi_tbilisi_da_batumi_7_batumi",
         "name": "- ევრო დიზელი (სააქციო ფასი სადგურებზე \u0022სალოსი\u0022 (თბილისი) და \u0022ბათუმი 7\u0022 (ბათუმი)",
-        "price": 3.06,
-        "change": -0.10
+        "price": 3.00,
+        "change": -0.06
       }
     ]
   },
