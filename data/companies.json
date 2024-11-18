@@ -203,38 +203,38 @@
       {
         "key": "nano_superi",
         "name": "ნანო სუპერი",
-        "price": 3.47,
-        "change": -0.10
+        "price": 3.50,
+        "change": 0.03
       },
       {
         "key": "nano_premiumi",
         "name": "ნანო პრემიუმი",
-        "price": 3.06,
-        "change": -0.10
+        "price": 3.11,
+        "change": 0.05
       },
       {
         "key": "nano_evro_regulari",
         "name": "ნანო ევრო რეგულარი",
-        "price": 2.90,
-        "change": -0.07
+        "price": 2.95,
+        "change": 0.05
       },
       {
         "key": "evro_5_dizeli",
         "name": "ევრო 5 დიზელი",
-        "price": 2.96,
-        "change": -0.10
+        "price": 2.98,
+        "change": 0.02
       },
       {
         "key": "nano_evro_5_dizeli",
         "name": "ნანო ევრო 5 დიზელი",
-        "price": 3.05,
-        "change": -0.10
+        "price": 3.07,
+        "change": 0.02
       },
       {
         "key": "lpg",
         "name": "LPG",
-        "price": 1.80,
-        "change": -0.25
+        "price": 1.70,
+        "change": -0.10
       },
       {
         "key": "cng_bunebrivi_airi",
