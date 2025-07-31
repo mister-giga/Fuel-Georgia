@@ -56,26 +56,26 @@
       {
         "key": "evro_superi",
         "name": "ევრო სუპერი",
-        "price": 3.46,
-        "change": 0.02
+        "price": 3.49,
+        "change": 0.03
       },
       {
         "key": "premium_avangardi",
         "name": "პრემიუმ ავანგარდი",
-        "price": 2.98,
+        "price": 3.03,
         "change": 0.05
       },
       {
         "key": "evro_regulari",
         "name": "ევრო რეგულარი",
-        "price": 2.79,
+        "price": 2.83,
         "change": 0.04
       },
       {
         "key": "evro_dizeli",
         "name": "ევრო დიზელი",
-        "price": 2.95,
-        "change": 0.05
+        "price": 2.98,
+        "change": 0.03
       }
     ]
   },
