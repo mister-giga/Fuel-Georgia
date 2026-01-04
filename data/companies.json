@@ -5,33 +5,9 @@
     "color": "#00A651",
     "fuels": [
       {
-        "key": "eko_superi",
-        "name": "ეკო სუპერი",
-        "price": 3.54,
-        "change": -0.05
-      },
-      {
-        "key": "eko_premiumi",
-        "name": "ეკო პრემიუმი",
-        "price": 3.12,
-        "change": -0.05
-      },
-      {
-        "key": "eko_dizeli",
-        "name": "ეკო დიზელი",
-        "price": 3.13,
-        "change": 0.05
-      },
-      {
-        "key": "evro_dizeli",
-        "name": "ევრო დიზელი",
-        "price": 3.08,
-        "change": 0.05
-      },
-      {
-        "key": "evro_regulari",
-        "name": "ევრო რეგულარი",
-        "price": 2.97,
+        "key": "visol_gazi",
+        "name": "ვისოლ გაზი",
+        "price": 1.64,
         "change": -0.05
       },
       {
@@ -41,9 +17,33 @@
         "change": 0.05
       },
       {
-        "key": "visol_gazi",
-        "name": "ვისოლ გაზი",
-        "price": 1.64,
+        "key": "evro_regulari",
+        "name": "ევრო რეგულარი",
+        "price": 2.97,
+        "change": -0.05
+      },
+      {
+        "key": "evro_dizeli",
+        "name": "ევრო დიზელი",
+        "price": 3.08,
+        "change": 0.05
+      },
+      {
+        "key": "eko_dizeli",
+        "name": "ეკო დიზელი",
+        "price": 3.13,
+        "change": 0.05
+      },
+      {
+        "key": "eko_premiumi",
+        "name": "ეკო პრემიუმი",
+        "price": 3.12,
+        "change": -0.05
+      },
+      {
+        "key": "eko_superi",
+        "name": "ეკო სუპერი",
+        "price": 3.54,
         "change": -0.05
       }
     ]
