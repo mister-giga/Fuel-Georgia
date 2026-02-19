@@ -203,8 +203,8 @@
       {
         "key": "txevadi_airi",
         "name": "თხევადი აირი",
-        "price": 1.8,
-        "change": 0.05
+        "price": 1.75,
+        "change": -0.05
       },
       {
         "key": "bunebrivi_airi",
