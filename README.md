@@ -50,7 +50,6 @@
 <tr><td>ევრო რეგულარი</td><td>2.92</td><td>-0.05</td></tr>
 <tr><td>G-Force ევრო დიზელი</td><td>3.13</td><td>+0.04</td></tr>
 <tr><td>ევრო დიზელი</td><td>3.03</td><td>+0.04</td></tr>
-<tr><td>გაზი</td><td>1.69</td><td>+0.10</td></tr>
 </table>
 <table>
 <tr><th colSpan="3">სოკარი</th></tr>
