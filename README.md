@@ -27,19 +27,19 @@
 <table>
 <tr><th colSpan="3">ლუკოილი</th></tr>
 <tr><th>სახელი</th><th>ფასი</th><th>ცვლილება</th></th></tr>
-<tr><td>ევრო სუპერი</td><td>3.89</td><td>+0.15</td></tr>
-<tr><td>პრემიუმ ავანგარდი</td><td>3.49</td><td>+0.10</td></tr>
-<tr><td>ევრო რეგულარი</td><td>3.34</td><td>+0.10</td></tr>
-<tr><td>ევრო დიზელი</td><td>3.77</td><td>+0.18</td></tr>
+<tr><td>ევრო სუპერი</td><td>3.92</td><td>+0.03</td></tr>
+<tr><td>პრემიუმ ავანგარდი</td><td>3.52</td><td>+0.03</td></tr>
+<tr><td>ევრო რეგულარი</td><td>3.37</td><td>+0.03</td></tr>
+<tr><td>ევრო დიზელი</td><td>3.85</td><td>+0.08</td></tr>
 </table>
 <table>
 <tr><th colSpan="3">რომპეტროლი</th></tr>
 <tr><th>სახელი</th><th>ფასი</th><th>ცვლილება</th></th></tr>
-<tr><td>efix სუპერი</td><td>3.92</td><td>+0.12</td></tr>
+<tr><td>efix სუპერი</td><td>3.99</td><td>+0.07</td></tr>
 <tr><td>efix ევრო პრემიუმი</td><td>3.43</td><td>-0.10</td></tr>
 <tr><td>ევრო რეგულარი</td><td>3.39</td><td>+0.12</td></tr>
-<tr><td>efix ევრო დიზელი</td><td>3.85</td><td>+0.20</td></tr>
-<tr><td>ევრო დიზელი</td><td>3.80</td><td>+0.20</td></tr>
+<tr><td>efix ევრო დიზელი</td><td>3.95</td><td>+0.10</td></tr>
+<tr><td>ევრო დიზელი</td><td>3.90</td><td>+0.10</td></tr>
 </table>
 <table>
 <tr><th colSpan="3">გალფი</th></tr>
