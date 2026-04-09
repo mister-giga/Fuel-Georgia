@@ -105,13 +105,13 @@
       {
         "key": "efix_evro_dizeli",
         "name": "efix ევრო დიზელი",
-        "price": 3.95,
+        "price": 4.05,
         "change": 0.10
       },
       {
         "key": "evro_dizeli",
         "name": "ევრო დიზელი",
-        "price": 3.90,
+        "price": 4.00,
         "change": 0.10
       }
     ]

@@ -38,8 +38,8 @@
 <tr><td>efix სუპერი</td><td>3.99</td><td>+0.07</td></tr>
 <tr><td>efix ევრო პრემიუმი</td><td>3.43</td><td>-0.10</td></tr>
 <tr><td>ევრო რეგულარი</td><td>3.39</td><td>+0.12</td></tr>
-<tr><td>efix ევრო დიზელი</td><td>3.95</td><td>+0.10</td></tr>
-<tr><td>ევრო დიზელი</td><td>3.90</td><td>+0.10</td></tr>
+<tr><td>efix ევრო დიზელი</td><td>4.05</td><td>+0.10</td></tr>
+<tr><td>ევრო დიზელი</td><td>4.00</td><td>+0.10</td></tr>
 </table>
 <table>
 <tr><th colSpan="3">გალფი</th></tr>
