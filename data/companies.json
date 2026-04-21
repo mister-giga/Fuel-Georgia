@@ -185,14 +185,14 @@
       {
         "key": "evro_5_dizeli",
         "name": "ევრო 5 დიზელი",
-        "price": 3.8,
-        "change": 0.15
+        "price": 3.92,
+        "change": 0.12
       },
       {
         "key": "nano_evro_5_dizeli",
         "name": "ნანო ევრო 5 დიზელი",
-        "price": 3.9,
-        "change": 0.15
+        "price": 4.02,
+        "change": 0.12
       },
       {
         "key": "txevadi_airi",
