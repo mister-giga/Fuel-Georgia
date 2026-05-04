@@ -19,14 +19,14 @@
       {
         "key": "eko_dizeli",
         "name": "ეკო დიზელი",
-        "price": 4.22,
-        "change": 0.10
+        "price": 4.27,
+        "change": 0.05
       },
       {
         "key": "evro_dizeli",
         "name": "ევრო დიზელი",
-        "price": 4.19,
-        "change": 0.10
+        "price": 4.24,
+        "change": 0.05
       },
       {
         "key": "evro_regulari",
@@ -37,8 +37,8 @@
       {
         "key": "dizel_enerji",
         "name": "დიზელ ენერჯი",
-        "price": 4.12,
-        "change": 0.10
+        "price": 4.17,
+        "change": 0.05
       },
       {
         "key": "visol_gazi",
@@ -167,32 +167,32 @@
       {
         "key": "nano_superi",
         "name": "ნანო სუპერი",
-        "price": 3.87,
-        "change": 0.05
+        "price": 4.02,
+        "change": 0.15
       },
       {
         "key": "nano_premiumi",
         "name": "ნანო პრემიუმი",
-        "price": 3.55,
-        "change": 0.05
+        "price": 3.65,
+        "change": 0.10
       },
       {
         "key": "nano_evro_regulari",
         "name": "ნანო ევრო რეგულარი",
-        "price": 3.39,
-        "change": 0.05
+        "price": 3.49,
+        "change": 0.10
       },
       {
         "key": "evro_5_dizeli",
         "name": "ევრო 5 დიზელი",
-        "price": 3.92,
-        "change": 0.12
+        "price": 4.14,
+        "change": 0.22
       },
       {
         "key": "nano_evro_5_dizeli",
         "name": "ნანო ევრო 5 დიზელი",
-        "price": 4.02,
-        "change": 0.12
+        "price": 4.24,
+        "change": 0.22
       },
       {
         "key": "txevadi_airi",
