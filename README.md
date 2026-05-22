@@ -44,10 +44,10 @@
 <table>
 <tr><th colSpan="3">გალფი</th></tr>
 <tr><th>სახელი</th><th>ფასი</th><th>ცვლილება</th></th></tr>
-<tr><td>G-Force სუპერი</td><td>4.19</td><td>+0.10</td></tr>
-<tr><td>G-Force პრემიუმი</td><td>3.79</td><td>+0.10</td></tr>
-<tr><td>G-Force ევრო რეგულარი</td><td>3.65</td><td>+0.10</td></tr>
-<tr><td>ევრო რეგულარი</td><td>3.63</td><td>+0.10</td></tr>
+<tr><td>G-Force სუპერი</td><td>4.17</td><td>-0.02</td></tr>
+<tr><td>G-Force პრემიუმი</td><td>3.77</td><td>-0.02</td></tr>
+<tr><td>G-Force ევრო რეგულარი</td><td>3.63</td><td>-0.02</td></tr>
+<tr><td>ევრო რეგულარი</td><td>3.61</td><td>-0.02</td></tr>
 <tr><td>G-Force ევრო დიზელი</td><td>4.37</td><td>+0.10</td></tr>
 <tr><td>ევრო დიზელი</td><td>4.27</td><td>+0.10</td></tr>
 </table>
