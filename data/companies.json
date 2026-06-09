@@ -97,10 +97,10 @@
         "change": 0.10
       },
       {
-        "key": "evro_regulari",
-        "name": "ევრო რეგულარი",
+        "key": "efix_evro_regulari",
+        "name": "efix ევრო რეგულარი",
         "price": 3.59,
-        "change": 0.20
+        "change": 0
       },
       {
         "key": "efix_evro_dizeli",
