@@ -99,8 +99,8 @@
       {
         "key": "efix_evro_regulari",
         "name": "efix ევრო რეგულარი",
-        "price": 3.39,
-        "change": -0.20
+        "price": 3.59,
+        "change": 0.20
       },
       {
         "key": "efix_evro_dizeli",
@@ -185,14 +185,14 @@
       {
         "key": "evro_5_dizeli",
         "name": "ევრო 5 დიზელი",
-        "price": 4.25,
-        "change": 0.11
+        "price": 4.05,
+        "change": -0.20
       },
       {
         "key": "nano_evro_5_dizeli",
         "name": "ნანო ევრო 5 დიზელი",
-        "price": 4.34,
-        "change": 0.10
+        "price": 4.15,
+        "change": -0.19
       },
       {
         "key": "txevadi_airi",
