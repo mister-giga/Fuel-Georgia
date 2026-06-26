@@ -37,7 +37,7 @@
 <tr><th>სახელი</th><th>ფასი</th><th>ცვლილება</th></th></tr>
 <tr><td>efix სუპერი</td><td>4.22</td><td>+0.10</td></tr>
 <tr><td>efix ევრო პრემიუმი</td><td>3.78</td><td>+0.10</td></tr>
-<tr><td>efix ევრო რეგულარი</td><td>3.39</td><td>-0.20</td></tr>
+<tr><td>efix ევრო რეგულარი</td><td>3.59</td><td>+0.20</td></tr>
 <tr><td>efix ევრო დიზელი</td><td>4.21</td><td>-0.11</td></tr>
 <tr><td>ევრო დიზელი</td><td>4.12</td><td>-0.15</td></tr>
 </table>
@@ -48,8 +48,8 @@
 <tr><td>G-Force პრემიუმი</td><td>3.77</td><td>-0.02</td></tr>
 <tr><td>G-Force ევრო რეგულარი</td><td>3.63</td><td>-0.02</td></tr>
 <tr><td>ევრო რეგულარი</td><td>3.61</td><td>-0.02</td></tr>
-<tr><td>G-Force ევრო დიზელი</td><td>4.19</td><td>-0.18</td></tr>
-<tr><td>ევრო დიზელი</td><td>4.09</td><td>-0.18</td></tr>
+<tr><td>G-Force ევრო დიზელი</td><td>4.07</td><td>-0.12</td></tr>
+<tr><td>ევრო დიზელი</td><td>3.97</td><td>-0.12</td></tr>
 </table>
 <table>
 <tr><th colSpan="3">სოკარი</th></tr>

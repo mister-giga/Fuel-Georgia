@@ -99,8 +99,8 @@
       {
         "key": "efix_evro_regulari",
         "name": "efix ევრო რეგულარი",
-        "price": 3.39,
-        "change": -0.20
+        "price": 3.59,
+        "change": 0.20
       },
       {
         "key": "efix_evro_dizeli",
@@ -148,14 +148,14 @@
       {
         "key": "gforce_evro_dizeli",
         "name": "G-Force ევრო დიზელი",
-        "price": 4.19,
-        "change": -0.18
+        "price": 4.07,
+        "change": -0.12
       },
       {
         "key": "evro_dizeli",
         "name": "ევრო დიზელი",
-        "price": 4.09,
-        "change": -0.18
+        "price": 3.97,
+        "change": -0.12
       }
     ]
   },
