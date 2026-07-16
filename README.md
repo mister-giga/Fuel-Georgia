@@ -23,7 +23,7 @@
 <tr><td>ევრო რეგულარი</td><td>3.55</td><td>-0.08</td></tr>
 <tr><td>დიზელ ენერჯი</td><td>3.99</td><td>-0.08</td></tr>
 <tr><td>ვისოლ გაზი</td><td>1.64</td><td>-0.05</td></tr>
-<tr><td>სუპერ 100</td><td>4.27</td><td>-0.73</td></tr>
+<tr><td>A1 სუპერი 100</td><td>4.27</td><td>0.00</td></tr>
 </table>
 <table>
 <tr><th colSpan="3">ლუკოილი</th></tr>

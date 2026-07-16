@@ -47,10 +47,10 @@
         "change": -0.05
       },
       {
-        "key": "super_100",
-        "name": "სუპერ 100",
+        "key": "a1_superi_100",
+        "name": "A1 სუპერი 100",
         "price": 4.27,
-        "change": -0.73
+        "change": 0
       }
     ]
   },
